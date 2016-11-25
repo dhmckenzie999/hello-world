@@ -1,2 +1,2 @@
 # hello-world
-First sample repository
+This is the Master Branch!
